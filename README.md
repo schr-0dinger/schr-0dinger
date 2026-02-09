@@ -1,50 +1,45 @@
-<h2 align="left">Hi 👋! My name is Dr. Kailas Nath K M. I'm a doctor and a passionate tech enthusiast. I love programming and working on AOSP ROMs, porting, recovery, kernel development, and much more.<br><br>My interests span across low-level system development, embedded programming, and building custom tools for Android and Linux. Whether it's optimizing system performance or developing new features, I enjoy diving deep into the world of operating systems and software engineering.<br><br>🚀 Always exploring new ways to blend medicine with technology!</h2>
+# Hey 👋 I'm Dr. Kailas Nath K M
 
-###
+### Doctor • Android Low-Level Dev • Systems Tinkerer
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=schr-0dinger&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=schr-0dinger&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=schr-0dinger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+*Where medicine meets kernels, bootloaders, and bytecode.*
 
-###
+---
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamo0NDJ4dTdvdThvaWZnc2h3aXVoNWxmYnpobDJ1cG1sN2kwZnZkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif"  />
+## 🧠 About Me
 
-###
+I'm a **doctor by training** and a **systems engineer by obsession**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="Android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo"  />
-</div>
+I spend my time deep inside:
 
-###
+- 🧩 **AOSP ROM development & porting**
+- 🔧 **Android kernel & recovery building**
+- 🧬 **Low-level Linux & embedded systems**
+- ⚙️ **Custom tooling for Android internals**
 
-<div align="left">
-  <a href="mailto:kmkailasnath@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"  />
-  </a>
-</div>
+I enjoy understanding *how things actually work* — from Dalvik bytecode to kernel schedulers — and then bending them to my will.
 
-###
+> 🚀 Always experimenting at the intersection of **medicine + technology**.
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/schr-0dinger/schr-0dinger/output/snake.svg" alt="Snake animation" />
+## 🛠️ Tech Stack & Tools
 
-###
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/> </p>
+---
 
-<div align="center">
-</div>
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=schr-0dinger&theme=dracula&hide_border=true)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/schr-0dinger?cardType=github&theme=tokyonight&fontFamily=Antic&preferLogin=false)](https://git.io/awesome-stats-card)
+
+---
+
+## 📫 Reach Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmkailasnath@gmail.com)
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/schr-0dinger/schr-0dinger/output/snake.svg)
